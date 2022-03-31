@@ -73,3 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Type of buttons code
 https://react-bootstrap.github.io/components/buttons/
+
+
+## Bonus
+
+### Cards
+https://react-bootstrap.github.io/components/cards/
+
+### Tables
+https://react-bootstrap.github.io/components/table/
